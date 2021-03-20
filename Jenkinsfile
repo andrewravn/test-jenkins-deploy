@@ -1,2 +1,2 @@
 library 'infralab-jenkins@master'
-helloworld()
+deploy()
